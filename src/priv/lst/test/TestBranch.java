@@ -6,6 +6,5 @@ public class TestBranch
     {
         String str1 = null;
         int e = 0;
-        
     }
 }
