@@ -23,6 +23,7 @@ public class HelloChina {
 		System.out.println("git amend");
 		System.out.println("Hello world!");
 		System.out.println(new HelloChina().a);
+		System.err.println("error");
 	}
 
 }
